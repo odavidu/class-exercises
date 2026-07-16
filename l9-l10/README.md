@@ -205,7 +205,8 @@ On Windows:
 ipconfig
 ```
 
-Talk to your group mates and write down the IP addresses of their machines. Place these in the servers slice in your `server.go` code.
+Talk to your group mates and write down the IP addresses of their machines. Place these in the servers slice in your `server.go` code. 
+**Make sure to include the used port (`:1234`) at the end of each address**
 
 With your group connect all 4-5 laptops together.
 
